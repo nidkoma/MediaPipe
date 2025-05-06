@@ -2,6 +2,7 @@
 venv/
 env/
 ENV/
+mediapipe-env/
 
 # Python bytecode files
 __pycache__/
