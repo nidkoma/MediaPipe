@@ -1,0 +1,37 @@
+# Python Virtual Environment
+venv/
+env/
+ENV/
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MediaPipe specific
+pose_record_*.json
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db 
