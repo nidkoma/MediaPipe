@@ -14,9 +14,14 @@
    ```
 
 3. 📁 สร้าง Virtual Environment (แนะนำมาก)
-   ```
-   py -3.10 -m venv mediapipe-env
-   ```
+   - Windows:
+     ```
+     py -3.10 -m venv mediapipe-env
+     ```
+   - macOS/Linux:
+     ```
+     python3.10 -m venv mediapipe-env 
+     ```
 
 4. ▶️ เข้าใช้งาน Virtual Environment
    - Windows:
